@@ -1,2 +1,2 @@
 # farmers-db-dashboard
-Database and dashboard system for a farmer association, built with MySQL and Power BI to manage records, analyze data, and visualize key metrics.
+This project was developed for a farmer association to improve data organization and decision-making. It combines a MySQL database for storing farmer, crop, and transaction data with a Power BI for visualizing financial and operational insights.
